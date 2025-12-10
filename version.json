@@ -1,0 +1,33 @@
+{
+  "version": "1.0.18",
+  "releaseDate": "2025-12-10T20:17:58Z",
+  "downloadUrl": "https://github.com/autovena/Autovena/releases/tag/v1.0.18",
+  "releaseNotes": "https://github.com/autovena/Autovena/releases/tag/v1.0.18",
+  "critical": false,
+  "installers": {
+    "windows": {
+      "url": "https://github.com/autovena/Autovena/releases/download/v1.0.18/Autovena-1.0.18.msi",
+      "sha256": "73fefe98f32e389f52ff0b65a74a50341ea7f999faec70045da908b020aa8022",
+      "sizeBytes": 123772756
+    },
+    "macos": {
+      "intel": {
+        "url": "https://github.com/autovena/Autovena/releases/download/v1.0.18/Autovena-1.0.18-Intel.dmg",
+        "sha256": "f93cf2ff2518715f658093373a393c78908b5398df6ebce948bca2606779dc37",
+        "sizeBytes": 127852038
+      },
+      "arm": {
+        "url": "https://github.com/autovena/Autovena/releases/download/v1.0.18/Autovena-1.0.18-AppleSilicon.dmg",
+        "sha256": "38f48de077bfb0030c3a4c0aa546bf602a9e4e6486227236dff8b53d9c6da910",
+        "sizeBytes": 126637184
+      }
+    },
+    "linux": {
+      "deb": {
+        "url": "https://github.com/autovena/Autovena/releases/download/v1.0.18/autovena_1.0.18-1_amd64.deb",
+        "sha256": "35cbca4812abf5dd2899a9790f75a1b70bf3d3d7e2de6ffa108e820beb2ff202",
+        "sizeBytes": 107358458
+      }
+    }
+  }
+}
