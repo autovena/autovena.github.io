@@ -1,36 +1,36 @@
 {
-  "version": "1.0.23",
-  "releaseDate": "2025-12-18T09:57:03Z",
-  "downloadUrl": "https://github.com/autovena/Autovena/releases/tag/v1.0.23",
-  "releaseNotes": "https://github.com/autovena/Autovena/releases/tag/v1.0.23",
+  "version": "1.0.24",
+  "releaseDate": "2025-12-18T21:17:41Z",
+  "downloadUrl": "https://github.com/autovena/Autovena/releases/tag/v1.0.24",
+  "releaseNotes": "https://github.com/autovena/Autovena/releases/tag/v1.0.24",
   "critical": false,
   "installers": {
     "windows": {
-      "url": "https://github.com/autovena/Autovena/releases/download/v1.0.23/Autovena-1.0.23.msi",
-      "sha256": "46b20c8eb79d6ec9d61ba56df3c608d80a23be582689974b7a9ccf79e962c96d",
+      "url": "https://github.com/autovena/Autovena/releases/download/v1.0.24/Autovena-1.0.24.msi",
+      "sha256": "58c3b35759369670ee1795f009ce841ec0c2ab2f7f579901c45593ff8ca400a3",
       "sizeBytes": 124334652,
-      "mirrors": ["https://media.githubusercontent.com/media/autovena/autovena.github.io/main/Autovena/releases/v1.0.23/Autovena-1.0.23.msi"]
+      "mirrors": ["https://media.githubusercontent.com/media/autovena/autovena.github.io/main/Autovena/releases/v1.0.24/Autovena-1.0.24.msi"]
     },
     "macos": {
       "intel": {
-        "url": "https://github.com/autovena/Autovena/releases/download/v1.0.23/Autovena-1.0.23-Intel.dmg",
-        "sha256": "fdd67be492dee311a798e2530b70b0a82f8e5f90742f583b1cfd5033e72963d9",
-        "sizeBytes": 127983061,
-        "mirrors": ["https://media.githubusercontent.com/media/autovena/autovena.github.io/main/Autovena/releases/v1.0.23/Autovena-1.0.23-Intel.dmg"]
+        "url": "https://github.com/autovena/Autovena/releases/download/v1.0.24/Autovena-1.0.24-Intel.dmg",
+        "sha256": "4702d12ae54dd2ccd33749600502b1f72d44bb4ff360e28f3e680c5efe2471c1",
+        "sizeBytes": 127983833,
+        "mirrors": ["https://media.githubusercontent.com/media/autovena/autovena.github.io/main/Autovena/releases/v1.0.24/Autovena-1.0.24-Intel.dmg"]
       },
       "arm": {
-        "url": "https://github.com/autovena/Autovena/releases/download/v1.0.23/Autovena-1.0.23-AppleSilicon.dmg",
-        "sha256": "9825942af9c07669d92a23633cea3cca4213bc59afdd220d1e922e9e439d2069",
-        "sizeBytes": 126754916,
-        "mirrors": ["https://media.githubusercontent.com/media/autovena/autovena.github.io/main/Autovena/releases/v1.0.23/Autovena-1.0.23-AppleSilicon.dmg"]
+        "url": "https://github.com/autovena/Autovena/releases/download/v1.0.24/Autovena-1.0.24-AppleSilicon.dmg",
+        "sha256": "c328a7b69241bb518bd4a65c94d63c80a19e93ba68be53982fa011f63de4d723",
+        "sizeBytes": 126755901,
+        "mirrors": ["https://media.githubusercontent.com/media/autovena/autovena.github.io/main/Autovena/releases/v1.0.24/Autovena-1.0.24-AppleSilicon.dmg"]
       }
     },
     "linux": {
       "deb": {
-        "url": "https://github.com/autovena/Autovena/releases/download/v1.0.23/autovena_1.0.23-1_amd64.deb",
-        "sha256": "877048729a5c9702f11f3c2368e2e82cc62e302ee79efee8d80a682d609a66b8",
-        "sizeBytes": 107511320,
-        "mirrors": ["https://media.githubusercontent.com/media/autovena/autovena.github.io/main/Autovena/releases/v1.0.23/autovena_1.0.23-1_amd64.deb"]
+        "url": "https://github.com/autovena/Autovena/releases/download/v1.0.24/autovena_1.0.24-1_amd64.deb",
+        "sha256": "b3b75f020f40db205045707455200a23f18fd5de40cc36fb7f67d6b890dd71c0",
+        "sizeBytes": 107450758,
+        "mirrors": ["https://media.githubusercontent.com/media/autovena/autovena.github.io/main/Autovena/releases/v1.0.24/autovena_1.0.24-1_amd64.deb"]
       }
     }
   }
